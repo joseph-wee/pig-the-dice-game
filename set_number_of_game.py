@@ -2,7 +2,7 @@
 # number = 1
 # number = number + randomNumber
 
-# ~~~ game playing ~~~
+# ~~~~ game playing ~~~~
 
 # if counter == number
 # game end
