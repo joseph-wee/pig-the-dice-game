@@ -1,1 +1,3 @@
-print('player=5')
+print('player=')
+print('5')
+
